@@ -1,2 +1,4 @@
 
 .vscode/settings.json
+__pycache__/calculator.cpython-39.pyc
+__pycache__/test_calculator.cpython-39-pytest-6.2.2.pyc
