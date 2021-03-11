@@ -10,4 +10,3 @@ class TestCalculator:
 
     def test_subtract(self):
         assert 2 == calculator.sub(5, 3)
-        
